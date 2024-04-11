@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohit_Workspace\\revitAPI\\Revit_API3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFE0DA-834E-4707-AAE1-A515F74402C4}|Revit_API3\\Revit_API3.csproj|d:\\rohit_workspace\\revitapi\\revit_api3\\revit_api3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EFE0DA-834E-4707-AAE1-A515F74402C4}|Revit_API3\\Revit_API3.csproj|solutionrelative:revit_api3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Revit_API3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFE0DA-834E-4707-AAE1-A515F74402C4}|Revit_API3\\Revit_API3.csproj|d:\\rohit_workspace\\revitapi\\revit_api3\\revit_api3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Revit_API3",
+              "DocumentMoniker": "D:\\Rohit_Workspace\\revitAPI\\Revit_API3\\Revit_API3\\Revit_API3.csproj",
+              "RelativeDocumentMoniker": "Revit_API3\\Revit_API3.csproj",
+              "ToolTip": "D:\\Rohit_Workspace\\revitAPI\\Revit_API3\\Revit_API3\\Revit_API3.csproj",
+              "RelativeToolTip": "Revit_API3\\Revit_API3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-11T18:16:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Rohit_Workspace\\revitAPI\\Revit_API3\\Revit_API3\\Class1.cs",
+              "RelativeDocumentMoniker": "Revit_API3\\Class1.cs",
+              "ToolTip": "D:\\Rohit_Workspace\\revitAPI\\Revit_API3\\Revit_API3\\Class1.cs",
+              "RelativeToolTip": "Revit_API3\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:14:32.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
