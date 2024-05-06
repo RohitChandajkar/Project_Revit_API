@@ -25,10 +25,6 @@ The program consists of a single class, `HelloWorld`, which implements the `IExt
     - Select the DLL and click "OK".
 5. Once loaded, the add-in will display a "Hello Revit API!" message when Revit starts up.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was inspired by the need to demonstrate a simple example of using the Revit API.
